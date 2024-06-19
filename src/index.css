@@ -1,0 +1,7 @@
+.gradient-button {
+  border-radius: 10px;
+  background: var(
+    --Relia-Energy-Gradient,
+    linear-gradient(135deg, #14add6 0%, #384295 100%)
+  );
+}
